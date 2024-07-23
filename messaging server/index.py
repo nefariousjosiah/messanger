@@ -1,3 +1,5 @@
+# You'll launch it up and then you'll need the client side to connect using your ipv4 address.
+# To find your ip address, launch up command prompt and type "ipconfig" and copy the ipv4 address.
 import socket
 
 def start_server():
