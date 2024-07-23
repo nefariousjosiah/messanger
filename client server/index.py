@@ -1,3 +1,5 @@
+# open and then type the ipv4 of the server you want to connect to.
+# if you don't know where that is, please ask the server side to type ipconfig in the terminal and get their ipv4
 import socket
 
 def start_client(server_ip):
